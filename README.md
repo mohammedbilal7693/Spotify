@@ -1,1 +1,1 @@
-<a href="https://github.com/mohammedbilal7693/Spotify">click hear</a>
+<a href="https://mohammedbilal7693.github.io/Spotify/">click hear</a>
